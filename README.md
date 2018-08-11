@@ -1,4 +1,4 @@
-# HackMD
+# HackMD Storage S
 To store HackMD notes link 儲存Hackmd的連結
 
 ---
@@ -11,3 +11,7 @@ To store HackMD notes link 儲存Hackmd的連結
 高三專題簡報
 ---
 https://hackmd.io/MsDMQEUiQaqY3F3EcWRZTw
+
+hackmd簡報範例
+---
+https://hackmd.io/JmmGk5gVQGSo-Z3iU1bY4Q
