@@ -12,6 +12,15 @@ To store HackMD notes link 儲存Hackmd的連結
 ---
 https://hackmd.io/MsDMQEUiQaqY3F3EcWRZTw
 
-hackmd簡報範例
+hackmd簡報範例(中文版)
 ---
 https://hackmd.io/JmmGk5gVQGSo-Z3iU1bY4Q
+
+HackMD使用教學(中文版):
+---
+https://hackmd.io/TKNuhom7S62OV6bDyBglXA
+
+HackMD 簡報教學(英文版):
+---
+https://hackmd.io/slide-example
+
