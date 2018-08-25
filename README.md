@@ -1,4 +1,4 @@
-# HackMD Storage S
+# HackMD Storage
 To store HackMD notes link 儲存Hackmd的連結
 
 ---
