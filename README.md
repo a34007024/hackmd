@@ -12,6 +12,10 @@ To store HackMD notes link 儲存Hackmd的連結
 ---
 https://hackmd.io/MsDMQEUiQaqY3F3EcWRZTw
 
+十分鐘學會讓Arduino用蜂鳴器唱歌
+---
+https://hackmd.io/DDci1eHISBGTzcZ90Z7Mmw
+
 hackmd簡報範例(中文版)
 ---
 https://hackmd.io/JmmGk5gVQGSo-Z3iU1bY4Q
